@@ -1,0 +1,10 @@
+*.csv
+*.jpg
+*.png
+*.txt
+*.doc
+*.ttf
+*.pdf
+*.docx
+*.pyc
+*.py
